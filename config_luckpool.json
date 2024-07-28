@@ -19,7 +19,7 @@
 	"user": "RA9cgNmzpibZr3FmKVDCMs6QLRg27N9XZ4.nok8",
 	"pass": "x",
 	"algo": "verus",
-	"threads": 7,
+	"threads": 3,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.1.0/16",
